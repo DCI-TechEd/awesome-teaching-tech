@@ -46,29 +46,44 @@ https://www.youtube.com/watch?v=5MC2X-LRbkE
 
 Printed books
 
+
+**Teaching Tech Together | Greg Wilson**  
+How to create and deliver lessons that work and build a teaching community around them  
+ISBN: 9780367352974  
+[Info](https://www.routledge.com/Teaching-Tech-Together-How-to-Make-Your-Lessons-Work-and-Build-a-Teaching/Wilson/p/book/9780367352974?utm_source=crcpress.com&utm_medium=referral)  
+
+
 **Make it Stick | Brown, Roediger III, McDaniel**  
-The science of successful learning   
-https://makeitstick.net/
+The science of successful learning  
+ISBN-10: 0674729013  
+ISBN-13: 978-0674729018  
+[Info](https://makeitstick.net/)  
 
 **Small Teaching | James Lang**  
 Everyday Lessons from the Science of Learning  
-http://www.jamesmlang.com/p/small-teaching.html  
+ISBN-13: 978-1118944493  
+ISBN-10: 1118944496  
+[Info](http://www.jamesmlang.com/p/small-teaching.html)  
 
 **Teaching What You Don’t Know | Therese Huston**  
-How to prepare most efficiently for a new course in a new area    
-https://www.hup.harvard.edu/catalog.php?isbn=9780674066175  
+How to prepare most efficiently for a new course in a new area  
+ISBN: 9780674066175  
+[Info](https://www.hup.harvard.edu/catalog.php?isbn=9780674066175)  
 
 **Teaching for Learning | Claire Major**   
 A comprehensive resource that highlights and synthesizes proven approaches  
-https://clairemajor.net/#writing  
+ISBN: 9780415699365  
+[Info](https://clairemajor.net/#writing)  
 
 **The Discussion Book, 50 Great Ways to Get People Talking | Brookfield, Preskill**  
 Helping you build teams, make better decisions, energize groups, and think out of the box.  
-https://www.wiley.com/en-us/The+Discussion+Book%3A+50+Great+Ways+to+Get+People+Talking-p-9781119049715
+ISBN: 978-1-119-04971-5  
+[Info](https://www.wiley.com/en-us/The+Discussion+Book%3A+50+Great+Ways+to+Get+People+Talking-p-9781119049715)
 
 **How People Learn II | National Academies**  
 Learners, Contexts, and Cultures  
-https://www.nap.edu/catalog/24783/how-people-learn-ii-learners-contexts-and-cultures
+ISBN: 978-0-309-45964-8  
+[Info](https://www.nap.edu/catalog/24783/how-people-learn-ii-learners-contexts-and-cultures)
 
 
 ## Contribute
