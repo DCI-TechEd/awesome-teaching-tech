@@ -8,14 +8,13 @@
 
 ## Contents
 
-- [Online](#Online)
+- [Articles](#Articles)
+- [Videos](#Videos)
 - [Books](#Books)
 
 
-## Online
 
-Online available resources
-
+## Articles  
 
 **Teaching Tech Together | Greg Wilson**  
 How to create and deliver lessons that work and build a teaching community around them  
@@ -28,6 +27,15 @@ https://kentcdodds.com/blog/how-i-teach
 **Programming is problem solving | Jared Nielsen**  
 How to Teach Adults to Code  
 https://jarednielsen.com/teach-adults-code/  
+
+
+**Teach Remotely | Harvard University**  
+As we prepare for a transition out of the classroom to online resources, we have created this site to serve as a guide to remote teaching.
+https://teachremotely.harvard.edu/get-started  
+
+
+
+## Videos
 
 **What makes a good teacher great? | Azul Terronez**  
 A great teacher eats apples 
@@ -43,9 +51,6 @@ https://www.youtube.com/watch?v=5MC2X-LRbkE
 
 
 ## Books
-
-Printed books
-
 
 **Teaching Tech Together | Greg Wilson**  
 How to create and deliver lessons that work and build a teaching community around them  
